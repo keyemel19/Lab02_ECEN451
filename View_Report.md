@@ -1,6 +1,6 @@
 # What Was Done:
 
-##1. Set Up Simulink with Arduino:
+## 1. Set Up Simulink with Arduino:
 - Installed the tools needed to make Simulink work with an Arduino board.
 - Tested the connection by making the LED on the Arduino blink.
   
