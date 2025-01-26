@@ -1,2 +1,2 @@
-# Lab01_ECEN451
-Matlab and Arduino - Introduction
+# Lab02_ECEN451
+Simulink to Arduino - Model Development and Deploy
