@@ -15,7 +15,7 @@
 ## Tried two modes: 
 **Normal Mode** (runs faster but can't adjust while running) and **External Mode** (lets you adjust settings in real-time but is slower).
 
-Conclusion: 
+# Conclusion: 
 This lab was about learning how to use Simulink with an Arduino to control an LED and test how fast the Arduino can run a program. 
 I set up the tools, made the LED blink, and adjusted its brightness in real time using External Mode. 
 I also tested how quickly the Arduino could handle the code without errors and compared two modes: 
