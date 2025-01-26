@@ -3,7 +3,7 @@
 **1. Set Up Simulink with Arduino:**
 - Installed the tools needed to make Simulink work with an Arduino board.
 - Tested the connection by making the LED on the Arduino blink.
-  ![80941c66-61ba-42f1-906c-9727a10a1cbe](https://github.com/user-attachments/assets/e8d8e5c9-be27-409b-a82e-0a92f73bbbcf)
+![80941c66-61ba-42f1-906c-9727a10a1cbe](https://github.com/user-attachments/assets/e8d8e5c9-be27-409b-a82e-0a92f73bbbcf)
 
 **2. Controlled the LED:**
 - Made a program to control the blinking of the LED and adjusted how fast it blinked using Simulink.
@@ -14,7 +14,7 @@
 **4. Tested Speed Limits:**
 - Found out how fast the Arduino could handle the program without messing up by testing with very short execution times.
 
-## Tried two modes: 
+## Two modes: 
 **Normal Mode** (runs faster but can't adjust while running) and **External Mode** (lets you adjust settings in real-time but is slower).
 ![Screenshot 2025-01-25 171003](https://github.com/user-attachments/assets/6a2dfd4a-a334-4a05-b9ac-9ebb5135821f)
 
